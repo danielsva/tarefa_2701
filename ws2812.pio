@@ -1,0 +1,8 @@
+.program ws2812
+.side_set 1
+
+.wrap_target
+    out x, 24       side 0 [2]  ; Envia 24 bits de dados para o LED, mantendo o pino baixo por 2 ciclos
+    nop             side 1 [5]  ; Mantém o pino alto por 5 ciclos (tempo do '1')
+    nop             side 0 [2]  ; Retorna o pino para baixo por 2 ciclos (tempo do '0')
+.wrap
