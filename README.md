@@ -1,6 +1,3 @@
-# tarefa_2701
-tarefa da EmbarcaTech, referente a aula do dia 27/01
-
 # 🛠️ Projeto: Controle de LEDs com Interrupções no RP2040
 
 ## 📄 Descrição do Projeto
