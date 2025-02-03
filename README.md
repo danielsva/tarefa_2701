@@ -18,7 +18,7 @@ Este projeto tem como objetivo explorar o uso de interrupções no microcontrola
 
 ## 📺 Demonstração
 
-- **Execução na Placa BitDogLab:** [Assista no YouTube](https://www.youtube.com/watch?v=ihk2JGRT12I](https://www.youtube.com/watch?v=Zz6k-8z_TqA&ab_channel=DanielSouza)
+- **Execução na Placa BitDogLab:** [Assista no YouTube](https://youtu.be/Zz6k-8z_TqA?si=cgKf8-UxbONZNF_H)
   
 ## 💭 Considerações Finais
 Este projeto permite fixar conhecimentos essenciais para o desenvolvimento de sistemas embarcados, utilizando interrupções para interação com o hardware de forma eficiente e responsiva.
